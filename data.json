@@ -1,0 +1,65 @@
+[
+  {
+    "userId": 0,
+    "username": "admin",
+    "password": "admin123",
+    "email": "admin@example.com",
+    "achievements": [],
+    "applications": []
+  },
+  {
+    "userId": 1,
+    "username": "Yassine",
+    "password": "someone123",
+    "email": "yassine.rami@gmail.com",
+    "achievements": [],
+    "applications": []
+  },
+  {
+    "userId": 2,
+    "username": "Zakaria",
+    "password": "ziko123",
+    "email": "zakaria.rami@gmail.com",
+    "achievements": [],
+    "applications": []
+  },
+  {
+    "userId": 3,
+    "username": "Othman",
+    "password": "aatar123",
+    "email": "othman.aatar@gmail.com",
+    "achievements": [],
+    "applications": []
+  },
+  {
+    "userId": 4,
+    "username": "Zebo",
+    "password": "zebo123",
+    "email": "betsaheel.zebo@gmail.com",
+    "achievements": [],
+    "applications": []
+  },
+  {
+    "userId": 5,
+    "username": "Ahmed",
+    "password": "ahmed123",
+    "email": "ahmed.ibrahimi@gmail.com",
+    "achievements": [
+      {
+        "achievementId": 2,
+        "title": "First Application",
+        "description": "Applied to first job",
+        "dateAchieved": "Dec 23, 2025, 3:11:23 PM"
+      }
+    ],
+    "applications": [
+      {
+        "applicationId": 5,
+        "position": "Software Engineer",
+        "company": "Crowd Strike",
+        "status": "APPLIED",
+        "dateApplied": "Dec 23, 2025, 3:11:23 PM"
+      }
+    ]
+  }
+]
